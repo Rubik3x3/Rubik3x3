@@ -31,11 +31,13 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
 </br>
 -->
+## Stats:
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubik3x3&theme=dracula)](https://github.com/Rubik3x3/github-readme-stats)
 
 ![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=dracula)
 
-### Apps and Games
+### Apps and Games:
 [![Itch.io](https://img.shields.io/badge/Itch-%23E54F5F.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
 [![Play Store](https://img.shields.io/badge/Google_Play-101010?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
 </br>
