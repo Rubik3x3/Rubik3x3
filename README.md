@@ -1,15 +1,15 @@
 # Hello, I'm Franco Salvador Talarico.
 
 ## Skills:
-[![Android](https://img.shields.io/badge/Android-3DDE4B?style=for-the-badge&logo=android&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Android](https://img.shields.io/badge/Android-2DC978?style=for-the-badge&logo=android&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-F35975?style=for-the-badge&logo=linux&logoColor=white)]()
 </br>
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)]()
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-%236B67BB.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python-5988F3?style=for-the-badge&logo=python&logoColor=white)]()
+[![Git](https://img.shields.io/badge/git-%23FF8442.svg?style=for-the-badge&logo=git&logoColor=white)]()
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)]()
-[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)]()
+[![Firebase](https://img.shields.io/badge/Firebase-6EB7D7?style=for-the-badge&logo=Firebase&logoColor=white)]()
+[![Godot Engine](https://img.shields.io/badge/GODOT_ENGINE-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)]()
 </br>
 <!--
 ### Programs:
@@ -31,9 +31,13 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
 </br>
 -->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubik3x3&theme=dracula)](https://github.com/Rubik3x3/github-readme-stats)
+
+![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=dracula)
+
 ### Apps and Games
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
+[![Itch.io](https://img.shields.io/badge/Itch-%23E54F5F.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
+[![Play Store](https://img.shields.io/badge/Google_Play-101010?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
 </br>
 
 ## Contact me:
