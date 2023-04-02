@@ -1,6 +1,5 @@
-# Hello, I'm Franco Salvador Talarico.
+# Hello.
 
-## Skills:
 [![Android](https://img.shields.io/badge/Android-2DC978?style=for-the-badge&logo=android&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-F35975?style=for-the-badge&logo=linux&logoColor=white)]()
 </br>
