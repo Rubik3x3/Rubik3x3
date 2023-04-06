@@ -32,7 +32,8 @@
 -->
 ## Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&theme=dracula)](https://github.com/Rubik3x3?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&langs_count=10)](https://github.com/Rubik3x3/github-readme-stats)
+
 
 
 ![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=dracula)
