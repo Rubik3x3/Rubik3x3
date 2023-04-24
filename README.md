@@ -45,7 +45,7 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-2760FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:canetphones@gmail.com)
+[![Email](https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-2760FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:franco.f4629@gmail.com)
 </br>
 
 
