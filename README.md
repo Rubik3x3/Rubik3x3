@@ -1,4 +1,6 @@
-# Hello.
+# Hi.
+
+## Skills:
 
 [![Android](https://img.shields.io/badge/Android-3D70FF?style=for-the-badge&logo=android&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-2760FF?style=for-the-badge&logo=linux&logoColor=white)]()
@@ -10,7 +12,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-3964DD?style=for-the-badge&logo=Firebase&logoColor=white)]()
 </br>
 <!--
-### Programs:
+## Programs:
 [![Figma](https://img.shields.io/badge/figma-%23F35959.svg?style=for-the-badge&logo=figma&logoColor=white)]()
 [![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#white)]()
 </br>
@@ -19,7 +21,7 @@
 </br>
 -->
 <!--
-### IDEs:
+## IDEs:
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-18B861.svg?style=for-the-badge&logo=android-studio&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)]()
 </br>
@@ -35,7 +37,7 @@
 ![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=apprentice)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=apprentice)](https://github.com/Rubik3x3/github-readme-stats)
 
-### Apps and Games:
+## Apps and Games:
 [![Itch.io](https://img.shields.io/badge/Itch-%23101010.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
 [![Play Store](https://img.shields.io/badge/Google_Play-2760FF?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
 </br>
