@@ -1,13 +1,13 @@
 # Hello.
 
-[![Android](https://img.shields.io/badge/Android-2760FF?style=for-the-badge&logo=android&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Android-3D70FF?style=for-the-badge&logo=android&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-2760FF?style=for-the-badge&logo=linux&logoColor=white)]()
 </br>
 [![Kotlin](https://img.shields.io/badge/kotlin-%232760FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()
-[![Python](https://img.shields.io/badge/python-2760FF?style=for-the-badge&logo=python&logoColor=white)]()
-[![Git](https://img.shields.io/badge/git-%232760FF.svg?style=for-the-badge&logo=git&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python-3D70FF?style=for-the-badge&logo=python&logoColor=white)]()
+[![Git](https://img.shields.io/badge/git-%233964DD.svg?style=for-the-badge&logo=git&logoColor=white)]()
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-2760FF?style=for-the-badge&logo=Firebase&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-3964DD?style=for-the-badge&logo=Firebase&logoColor=white)]()
 </br>
 <!--
 ### Programs:
