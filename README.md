@@ -30,13 +30,11 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
 </br>
 -->
-## Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/Rubik3x3/github-readme-stats)
+## GitHub Stats:
 
 
-
-![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=dracula)
+![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=apprentice)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=apprentice)](https://github.com/Rubik3x3/github-readme-stats)
 
 ### Apps and Games:
 [![Itch.io](https://img.shields.io/badge/Itch-%23E54F5F.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
