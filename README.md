@@ -1,14 +1,13 @@
 # Hello.
 
-[![Android](https://img.shields.io/badge/Android-2DC978?style=for-the-badge&logo=android&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-F35975?style=for-the-badge&logo=linux&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Android-2760FF?style=for-the-badge&logo=android&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-2760FF?style=for-the-badge&logo=linux&logoColor=white)]()
 </br>
-[![Kotlin](https://img.shields.io/badge/kotlin-%236B67BB.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()
-[![Python](https://img.shields.io/badge/python-5988F3?style=for-the-badge&logo=python&logoColor=white)]()
-[![Git](https://img.shields.io/badge/git-%23FF8442.svg?style=for-the-badge&logo=git&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-%232760FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python-2760FF?style=for-the-badge&logo=python&logoColor=white)]()
+[![Git](https://img.shields.io/badge/git-%232760FF.svg?style=for-the-badge&logo=git&logoColor=white)]()
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-6EB7D7?style=for-the-badge&logo=Firebase&logoColor=white)]()
-[![Godot Engine](https://img.shields.io/badge/GODOT_ENGINE-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)]()
+[![Firebase](https://img.shields.io/badge/Firebase-2760FF?style=for-the-badge&logo=Firebase&logoColor=white)]()
 </br>
 <!--
 ### Programs:
@@ -37,8 +36,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=apprentice)](https://github.com/Rubik3x3/github-readme-stats)
 
 ### Apps and Games:
-[![Itch.io](https://img.shields.io/badge/Itch-%23E54F5F.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
-[![Play Store](https://img.shields.io/badge/Google_Play-101010?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
+[![Itch.io](https://img.shields.io/badge/Itch-%23101010.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
+[![Play Store](https://img.shields.io/badge/Google_Play-2760FF?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
 </br>
 
 ## Contact me:
