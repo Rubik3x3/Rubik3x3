@@ -1,6 +1,6 @@
 # Hi, I'm Franco.
 
-## Skills:
+## Technologies:
 
 [![Android](https://img.shields.io/badge/Android-3D70FF?style=for-the-badge&logo=android&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-2760FF?style=for-the-badge&logo=linux&logoColor=white)]()
