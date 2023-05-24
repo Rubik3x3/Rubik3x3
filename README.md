@@ -38,8 +38,11 @@
 ## GitHub Stats:
 
 
-![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=apprentice)](https://github.com/Rubik3x3/github-readme-stats)
+![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=bear)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=bear)](https://github.com/Rubik3x3/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Apps and Games:
 [![Itch.io](https://img.shields.io/badge/Itch-%23101010.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
