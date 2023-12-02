@@ -3,3 +3,29 @@
 	margin: 0;
     font-family: 'Special Elite', cursive;
 }
+
+.svg-container {
+    position: fixed;
+    width: 40px; /* Ajusta el tamaño según tus necesidades */
+    height: 40px;
+}
+
+.top-left {
+    top: 10px;
+    left: 10px;
+}
+
+.top-right {
+    top: 10px;
+    right: 10px;
+}
+
+.bottom-left {
+    bottom: 10px;
+    left: 10px;
+}
+
+.bottom-right {
+    bottom: 10px;
+    right: 10px;
+}
