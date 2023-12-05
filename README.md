@@ -5,19 +5,15 @@
 <img src="banner.png">
 
 ## Technologies:
-[![Android](https://img.shields.io/badge/Android-E14848?style=for-the-badge&logo=android&logoColor=white&labelColor=151515)](https://www.android.com/)
-[![Linux](https://img.shields.io/badge/Linux-E2CB3D?style=for-the-badge&logo=linux&logoColor=white&labelColor=151515)](https://www.linux.org/)
-[![Godot Engine](https://img.shields.io/badge/Godot_Engine-5383E1?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=151515)](https://godotengine.org/)<br>
-[![Python](https://img.shields.io/badge/Python-E47E57?style=for-the-badge&logo=python&logoColor=white&labelColor=151515)](https://www.python.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=151515)](https://kotlinlang.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-79EA51?style=for-the-badge&logo=arduino&logoColor=white&labelColor=151515)](https://www.arduino.cc/)<br>
-[![Firebase](https://img.shields.io/badge/Firebase-79EA51?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=151515)](https://firebase.google.com/)
-[![HTML](https://img.shields.io/badge/HTML-5383E1?style=for-the-badge&logo=html5&logoColor=white&labelColor=151515)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-E14848?style=for-the-badge&logo=css3&logoColor=white&labelColor=151515)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-
-
+[![Android](https://img.shields.io/badge/Android-E14848?style=for-the-badge&logo=android&logoColor=202020&labelColor=white)](https://www.android.com/)
+[![Linux](https://img.shields.io/badge/Linux-E2CB3D?style=for-the-badge&logo=linux&logoColor=202020&labelColor=white)](https://www.linux.org/)
+[![Godot Engine](https://img.shields.io/badge/Godot_Engine-5383E1?style=for-the-badge&logo=godot-engine&logoColor=151515&labelColor=white)](https://godotengine.org/)<br>
+[![Python](https://img.shields.io/badge/Python-E47E57?style=for-the-badge&logo=python&logoColor=202020&labelColor=white)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-454545?style=for-the-badge&logo=kotlin&logoColor=202020&labelColor=white)](https://kotlinlang.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-79EA51?style=for-the-badge&logo=arduino&logoColor=202020&labelColor=white)](https://www.arduino.cc/)<br>
+[![Firebase](https://img.shields.io/badge/Firebase-79EA51?style=for-the-badge&logo=Firebase&logoColor=202020&labelColor=white)](https://firebase.google.com/)
+[![HTML](https://img.shields.io/badge/HTML-5383E1?style=for-the-badge&logo=html5&logoColor=202020&labelColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-E14848?style=for-the-badge&logo=css3&logoColor=202020&labelColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 </br>
 
 <!--
@@ -41,13 +37,17 @@
 </br>
 -->
 ## GitHub Stats:
-
-
-![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=bear)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=bear)](https://github.com/Rubik3x3/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Rubik3x3)
+<p align="center">
+  <a href="https://github.com/Rubik3x3/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite" alt="Top Langs">
+  </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite" alt="Rubik3x3's GitHub stats">
+  <a href="https://github.com/Rubik3x3/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  </a>
+</p>
 
 ## Apps and Games:
 [![Itch.io](https://img.shields.io/badge/Itch-%23101010.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
