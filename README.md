@@ -37,26 +37,20 @@
 </br>
 -->
 ## GitHub Stats:
-<p align="center">
-  <a href="https://github.com/Rubik3x3/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite" alt="Top Langs">
-  </a>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite" alt="Rubik3x3's GitHub stats">
-  <a href="https://github.com/Rubik3x3/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  </a>
-</p>
+![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite)](https://github.com/Rubik3x3/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Rubik3x3)
 
 ## Apps and Games:
-[![Itch.io](https://img.shields.io/badge/Itch-%23101010.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
-[![Play Store](https://img.shields.io/badge/Google_Play-2760FF?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
+[![Itch.io](https://img.shields.io/badge/Itch-%23E14848.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
+[![Play Store](https://img.shields.io/badge/Google_Play-5383E1?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
 </br>
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-2760FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:franco.f4629@gmail.com)
+[![Email](https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=151515)](mailto:franco.f4629@gmail.com)
 </br>
 
 
