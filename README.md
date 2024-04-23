@@ -4,7 +4,7 @@
 
 <img src="banner.png">
 
-## Technologies:
+<!-- ## Technologies: -->
 [![Android](https://img.shields.io/badge/Android-E14848?style=for-the-badge&logo=android&logoColor=202020&labelColor=white)](https://www.android.com/)
 [![Linux](https://img.shields.io/badge/Linux-E2CB3D?style=for-the-badge&logo=linux&logoColor=202020&labelColor=white)](https://www.linux.org/)
 [![Godot Engine](https://img.shields.io/badge/Godot_Engine-5383E1?style=for-the-badge&logo=godot-engine&logoColor=151515&labelColor=white)](https://godotengine.org/)<br>
