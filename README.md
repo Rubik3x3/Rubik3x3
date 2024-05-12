@@ -5,15 +5,15 @@
 <img src="banner.png">
 
 <!-- ## Technologies: -->
-[![Android](https://img.shields.io/badge/Android-E14848?style=for-the-badge&logo=android&logoColor=202020&labelColor=white)](https://www.android.com/)
-[![Linux](https://img.shields.io/badge/Linux-E2CB3D?style=for-the-badge&logo=linux&logoColor=202020&labelColor=white)](https://www.linux.org/)
-[![Godot Engine](https://img.shields.io/badge/Godot_Engine-5383E1?style=for-the-badge&logo=godot-engine&logoColor=151515&labelColor=white)](https://godotengine.org/)<br>
-[![Python](https://img.shields.io/badge/Python-E47E57?style=for-the-badge&logo=python&logoColor=202020&labelColor=white)](https://www.python.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-454545?style=for-the-badge&logo=kotlin&logoColor=202020&labelColor=white)](https://kotlinlang.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-79EA51?style=for-the-badge&logo=arduino&logoColor=202020&labelColor=white)](https://www.arduino.cc/)<br>
-[![Firebase](https://img.shields.io/badge/Firebase-79EA51?style=for-the-badge&logo=Firebase&logoColor=202020&labelColor=white)](https://firebase.google.com/)
-[![HTML](https://img.shields.io/badge/HTML-5383E1?style=for-the-badge&logo=html5&logoColor=202020&labelColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-E14848?style=for-the-badge&logo=css3&logoColor=202020&labelColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=white&labelColor=24292e)](https://www.android.com/)
+[![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=24292e)](https://www.linux.org/)
+[![Godot Engine](https://img.shields.io/badge/Godot_Engine-white?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=24292e)](https://godotengine.org/)<br>
+[![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=24292e)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=24292e)](https://kotlinlang.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=white&labelColor=24292e)](https://www.arduino.cc/)<br>
+[![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=24292e)](https://firebase.google.com/)
+[![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=24292e)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=24292e)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 </br>
 
 <!--
