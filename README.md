@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Rubik3x3">Franco</a></h1>
 </div>
 
-<img src="banner.png">
+<!-- <img src="banner.png"> -->
 
 <!-- ## Technologies: -->
 [![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=white&labelColor=151515)](https://www.android.com/)
@@ -37,6 +37,7 @@
 </br>
 -->
 ## GitHub Stats:
+  
 ![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite)](https://github.com/Rubik3x3/github-readme-stats)
