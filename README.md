@@ -5,16 +5,37 @@
 <!-- <img src="banner.png"> -->
 
 <!-- ## Technologies: -->
-[![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=white&labelColor=151515)](https://www.android.com/)
-[![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=151515)](https://www.linux.org/)
-[![Godot Engine](https://img.shields.io/badge/Godot_Engine-white?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=151515)](https://godotengine.org/)<br>
-[![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=151515)](https://www.python.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=151515)](https://kotlinlang.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=white&labelColor=151515)](https://www.arduino.cc/)<br>
-[![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=151515)](https://firebase.google.com/)
-[![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=151515)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=151515)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-</br>
+<div align="center">
+<a href="https://www.android.com/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=white&labelColor=151515" alt="Android" style="text-decoration: none;">
+</a>
+<a href="https://www.linux.org/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&labelColor=151515" alt="Linux" style="text-decoration: none;">
+</a>
+<a href="https://godotengine.org/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Godot_Engine-white?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=151515" alt="Godot Engine" style="text-decoration: none;">
+</a><br>
+<a href="https://www.python.org/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=151515" alt="Python" style="text-decoration: none;">
+</a>
+<a href="https://kotlinlang.org/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=151515" alt="Kotlin" style="text-decoration: none;">
+</a>
+<a href="https://www.arduino.cc/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=white&labelColor=151515" alt="Arduino" style="text-decoration: none;">
+</a><br>
+<a href="https://firebase.google.com/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=151515" alt="Firebase" style="text-decoration: none;">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=151515" alt="HTML" style="text-decoration: none;">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=151515" alt="CSS" style="text-decoration: none;">
+</a>
+
+
+</div>
 
 <!--
 ## Programs:
