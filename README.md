@@ -37,7 +37,7 @@
 </br>
 -->
 
-<h1 align="center">GitHub Stats</h1>
+<h2 align="center">GitHub Stats</h2>
   
 <div align="center">
   <div style="display: flex; justify-content: center;">
@@ -58,12 +58,13 @@
 
 
 
-## Apps and Games:
+<h2 align="center">APPs and Games</h2>
+
 [![Itch.io](https://img.shields.io/badge/Itch-%23E14848.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
 [![Play Store](https://img.shields.io/badge/Google_Play-5383E1?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
 </br>
 
-## Contact me:
+<h2 align="center">Contact me</h2>
 
 [![Email](https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=151515)](mailto:franco.f4629@gmail.com)
 </br>
