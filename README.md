@@ -48,7 +48,12 @@
   </a>
 </div>
 
-[![Rubik3x3's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rubik3x3&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Rubik3x3/github-readme-activity-graph)
+<div style="text-align: center;">
+  <a href="https://github.com/Rubik3x3/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubik3x3&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Rubik3x3's github activity graph" width="640px" >
+  </a>
+</div>
+
 
 ## Apps and Games:
 [![Itch.io](https://img.shields.io/badge/Itch-%23E14848.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
