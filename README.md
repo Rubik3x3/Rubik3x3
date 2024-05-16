@@ -36,23 +36,25 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
 </br>
 -->
-## GitHub Stats:
+## GitHub Stats
   
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite" alt="Rubik3x3's GitHub stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite" alt="Top Langs" width="233.5px">
-</div>
-<div>
-  <a href="https://github.com/Rubik3x3/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="637.5px">
-  </a>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite" alt="Rubik3x3's GitHub stats" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite" alt="Top Langs" width="233.5px">
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/Rubik3x3/github-readme-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="637.5px">
+    </a>
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/Rubik3x3/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubik3x3&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Rubik3x3's github activity graph" width="637.5px" >
+    </a>
+  </div>
 </div>
 
-<div style="text-align: center;">
-  <a href="https://github.com/Rubik3x3/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubik3x3&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Rubik3x3's github activity graph" width="637.5px" >
-  </a>
-</div>
 
 
 ## Apps and Games:
