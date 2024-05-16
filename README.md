@@ -38,11 +38,15 @@
 -->
 ## GitHub Stats:
   
-![Rubik3x3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite)](https://github.com/Rubik3x3/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Rubik3x3)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite" alt="Rubik3x3's GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite" alt="Top Langs" width="235px">
+</div>
+<div>
+  <a href="https://github.com/Rubik3x3/github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rubik3x3&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="640px">
+  </a>
+</div>
 
 [![Rubik3x3's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rubik3x3&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Rubik3x3/github-readme-activity-graph)
 
