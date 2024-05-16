@@ -36,9 +36,10 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
 </br>
 -->
-## GitHub Stats
+
+<h1 align="center">GitHub Stats</h1>
   
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite" alt="Rubik3x3's GitHub stats" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubik3x3&layout=compact&langs_count=10&show_icons=true&theme=graywhite" alt="Top Langs" width="233.5px">
