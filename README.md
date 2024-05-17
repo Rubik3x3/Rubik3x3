@@ -33,8 +33,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=151515" alt="CSS" style="text-decoration: none;">
 </a>
-
-
 </div>
 
 <!--
