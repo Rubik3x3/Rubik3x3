@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://github.com/Rubik3x3">Franco</a></h1>
 </div>
-
 <!-- <img src="banner.png"> -->
 
 <!-- ## Technologies: -->
@@ -79,14 +78,22 @@
 
 <h2 align="center">APPs and Games</h2>
 
-[![Itch.io](https://img.shields.io/badge/Itch-%23E14848.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rubik3x3.itch.io)
-[![Play Store](https://img.shields.io/badge/Google_Play-5383E1?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9074361239959973863&hl)
-</br>
+<div align="center">
+  <a href="https://rubik3x3.itch.io">
+    <img src="https://img.shields.io/badge/Itch-%23E14848.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io">
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=9074361239959973863&hl">
+    <img src="https://img.shields.io/badge/Google_Play-5383E1?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store">
+  </a>
+</div>
 
 <h2 align="center">Contact me</h2>
 
-[![Email](https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=151515)](mailto:franco.f4629@gmail.com)
-</br>
+<div align="center">
+  <a href="mailto:franco.f4629@gmail.com">
+    <img src="https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=151515" alt="Email">
+  </a>
+</div>
 
 
 
