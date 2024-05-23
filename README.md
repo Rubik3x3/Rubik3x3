@@ -34,7 +34,7 @@
 </a>
 </div>
 
-<!--
+<!--s
 ## Programs:
 [![Figma](https://img.shields.io/badge/figma-%23F35959.svg?style=for-the-badge&logo=figma&logoColor=white)]()
 [![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#white)]()
