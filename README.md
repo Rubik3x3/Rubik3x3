@@ -56,7 +56,7 @@
 -->
 
 <h2 align="center">GitHub Stats</h2>
-  
+
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Rubik3x3&show_icons=true&theme=graywhite" alt="Rubik3x3's GitHub stats" width="400">
@@ -73,8 +73,6 @@
     </a>
   </div>
 </div>
-
-
 
 <h2 align="center">APPs and Games</h2>
 
