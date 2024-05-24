@@ -92,7 +92,6 @@
     <img src="https://img.shields.io/badge/francosalvadortalarico@gmail.com-my_personal_email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=151515" alt="Email">
   </a>
 </div>
-
 <!--
 **Rubik3x3/Rubik3x3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
