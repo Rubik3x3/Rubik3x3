@@ -90,8 +90,8 @@
 <h2 align="center">Contact me</h2>
 
 <div align="center">
-  <a href="mailto:franco.f4629@gmail.com">
-    <img src="https://img.shields.io/badge/franco.f4629@gmail.com-my_personal_email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=151515" alt="Email">
+  <a href="mailto:francosalvadortalarico@gmail.com">
+    <img src="https://img.shields.io/badge/francosalvadortalarico@gmail.com-my_personal_email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=151515" alt="Email">
   </a>
 </div>
 
