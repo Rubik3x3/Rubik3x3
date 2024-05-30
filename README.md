@@ -23,10 +23,10 @@
 </a>
 <a href="https://www.arduino.cc/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=white&labelColor=151515" alt="Arduino" style="text-decoration: none;">
-</a><br>
+</a><br><!--
 <a href="https://firebase.google.com/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=151515" alt="Firebase" style="text-decoration: none;">
-</a>
+</a>-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=151515" alt="HTML" style="text-decoration: none;">
 </a>
