@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://github.com/Rubik3x3">Franco</a></h1>
 </div>
-
 <!-- <img src="banner.png"> -->
 
 <!-- ## Technologies: -->
