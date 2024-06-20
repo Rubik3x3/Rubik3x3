@@ -75,7 +75,7 @@
   </div>
 </div>
 
-<h2 align="center">APPs and Games</h2>
+<h2 align="center">APPs, Games and Youtube</h2>
 
 <div align="center">
   <a href="https://rubik3x3.itch.io">
@@ -83,6 +83,9 @@
   </a>
   <a href="https://play.google.com/store/apps/dev?id=9074361239959973863&hl">
     <img src="https://img.shields.io/badge/Google_Play-5383E1?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store">
+  </a>
+  <a href="https://youtube.com/@FrancoSalvadorTalarico">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
 
