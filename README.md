@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://github.com/Rubik3x3">Franco</a></h1>
+<h1 align="center">Hola, soy <a href="https://github.com/Rubik3x3">Franco</a></h1>
 </div>
 
 <img src="banner2.png">
@@ -60,6 +60,72 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
 </br>
 -->
+## Aplicaciones y Juegos
+<table>
+<tr>
+  
+<td width="50%">
+<h3 align="center">Resistor Color Code Calculator</h3>
+<div align="center">
+<img src="video1.png" width="400" alt="Imagen 1">
+<p>
+<a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank">
+<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
+</a>
+</p>
+<p>En este video se realiza una demostración visual de la serie geométrica 1/2^n, explicando sus propiedades y convergencia. </p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Eclipse: Reaction Game</h3>
+<div align="center">
+<img src="video2.png" width="400" alt="Imagen 1">
+<p>
+<a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank">
+<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
+</a>
+</p>
+<p>En este video se realiza una demostración visual de por qué el Área de un Círculo es π.r²</p>
+</div>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+## Videos de Youtube
+<table>
+<tr>
+  
+<td width="50%">
+<h3 align="center">Demostración Visual de la Serie Geometrica 1/2^n</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank"><img src="video1.png" width="400" alt="Demostración Visual de la Serie Geometrica 1/2^n"></a>
+<p>
+<a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank">
+<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
+</a>
+</p>
+<p>En este video se realiza una demostración visual de la serie geométrica 1/2^n, explicando sus propiedades y convergencia. </p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Demostración Visual del Área de un Círculo</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank"><img src="video2.png" width="400" alt="Demostración Visual del Área de un Círculo"></a>
+<p>
+<a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank">
+<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
+</a>
+</p>
+<p>En este video se realiza una demostración visual de por qué el Área de un Círculo es π.r²</p>
+</div>
+</td>
+
+</tr>
+</table>
+
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -93,39 +159,6 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
-
-<table>
-<tr>
-  
-<td width="50%">
-<h3 align="center">Demostración Visual de la Serie Geometrica 1/2^n</h3>
-<div align="center">
-<a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank"><img src="video1.png" width="400" alt="Demostración Visual de la Serie Geometrica 1/2^n"></a>
-<p>
-<a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank">
-<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
-</a>
-</p>
-<p>En este video se realiza una demostración visual de la serie geométrica 1/2^n, explicando sus propiedades y convergencia. </p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Demostración Visual del Área de un Círculo</h3>
-<div align="center">
-<a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank"><img src="video2.png" width="400" alt="Demostración Visual del Área de un Círculo"></a>
-<p>
-<a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank">
-<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
-</a>
-</p>
-<p>En este video se realiza una demostración visual de por qué el Área de un Círculo es π.r²</p>
-</div>
-</td>
-
-</tr>
-</table>
-
-            
 
 <h2 align="center">Contact me</h2>
 
