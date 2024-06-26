@@ -100,7 +100,7 @@
 <td width="50%">
 <h3 align="center">Demostración Visual de la Serie Geometrica 1/2^n</h3>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank"><img src="https://img.youtube.com/vi/Jlk-QHUI64A/maxresdefault.jpg" width="400" alt="Demostración Visual de la Serie Geometrica 1/2^n"></a>
+<a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank"><img src="video1.png" width="400" alt="Demostración Visual de la Serie Geometrica 1/2^n"></a>
 <p>
 <a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank">
 <img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
@@ -112,7 +112,7 @@
 <td width="50%">
 <h3 align="center">Demostración Visual del Área de un Círculo</h3>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank"><img src="https://img.youtube.com/vi/-1JQEb1NnUY/maxresdefault.jpg" width="400" alt="Demostración Visual del Área de un Círculo"></a>
+<a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank"><img src="video2.png" width="400" alt="Demostración Visual del Área de un Círculo"></a>
 <p>
 <a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank">
 <img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
