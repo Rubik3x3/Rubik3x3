@@ -67,25 +67,31 @@
 <td width="50%">
 <h3 align="center">Resistor Color Code Calculator</h3>
 <div align="center">
-<img src="video1.png" width="400" alt="Imagen 1">
+<img src="resistorimagen1.png" width="100" alt="Imagen 1">
+<img src="resistorimagen2.png" width="100" alt="Imagen 1">
+<img src="resistorimagen3.png" width="100" alt="Imagen 1">
+<img src="resistorimagen4.png" width="100" alt="Imagen 1">
 <p>
 <a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank">
-<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
+<img src="https://img.shields.io/badge/-Link a Play Store-green?style=for-the-badge&color=ffffff">
 </a>
 </p>
-<p>En este video se realiza una demostración visual de la serie geométrica 1/2^n, explicando sus propiedades y convergencia. </p>
+<p>Una aplicación que calcula el valor de los resistores en base al código de colores de las bandas.</p>
 </div>
 </td>
 <td width="50%">
 <h3 align="center">Eclipse: Reaction Game</h3>
 <div align="center">
-<img src="video2.png" width="400" alt="Imagen 1">
+<img src="eclipseimagen1.png" width="115" alt="Imagen 1">
+<img src="eclipseimagen2.png" width="115" alt="Imagen 1">
+<img src="eclipseimagen3.png" width="115" alt="Imagen 1">
+<img src="eclipseimagen4.png" width="115" alt="Imagen 1">
 <p>
 <a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank">
-<img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
+<img src="https://img.shields.io/badge/-Link a Play Store-green?style=for-the-badge&color=ffffff">
 </a>
 </p>
-<p>En este video se realiza una demostración visual de por qué el Área de un Círculo es π.r²</p>
+<p>Juego de reacción que te desafía a reaccionar rápidamente a la superposición de cuerpos circulares en movimiento.</p>
 </div>
 </td>
 
