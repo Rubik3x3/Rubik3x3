@@ -71,7 +71,9 @@
 <img src="resistorimagen2.png" width="80" alt="Imagen 1">
 <img src="resistorimagen3.png" width="80" alt="Imagen 1">
 <img src="resistorimagen4.png" width="80" alt="Imagen 1">
+
 <p>
+<br>
 <a href="https://play.google.com/store/apps/details?id=com.rubik3x3.resistorcolorcodecalculator" target="_blank">
 <img src="https://img.shields.io/badge/-Link a Play Store-green?style=for-the-badge&color=ffffff">
 </a>
@@ -86,7 +88,9 @@
 <img src="eclipseimagen2.png" width="90" alt="Imagen 1">
 <img src="eclipseimagen3.png" width="90" alt="Imagen 1">
 <img src="eclipseimagen4.png" width="90" alt="Imagen 1">
+
 <p>
+<br>
 <a href="https://play.google.com/store/apps/details?id=studios.rubikf4629.eclipse" target="_blank">
 <img src="https://img.shields.io/badge/-Link a Play Store-green?style=for-the-badge&color=ffffff">
 </a>
