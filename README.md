@@ -113,6 +113,7 @@
 <div align="center">
 <a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank"><img src="video1.png" width="400" alt="Demostración Visual de la Serie Geometrica 1/2^n"></a>
 <p>
+<br/>
 <a href="https://www.youtube.com/watch?v=Jlk-QHUI64A" target="_blank">
 <img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
 </a>
@@ -125,6 +126,7 @@
 <div align="center">
 <a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank"><img src="video2.png" width="400" alt="Demostración Visual del Área de un Círculo"></a>
 <p>
+<br/>
 <a href="https://www.youtube.com/watch?v=-1JQEb1NnUY" target="_blank">
 <img src="https://img.shields.io/badge/-Link al Video de Youtube-green?style=for-the-badge&color=ffffff">
 </a>
@@ -135,7 +137,6 @@
 
 </tr>
 </table>
-
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -155,9 +156,8 @@
     </a>
   </div>
 </div>
-
+<!--
 <h2 align="center">APPs, Games and Youtube</h2>
-
 <div align="center">
   <a href="https://rubik3x3.itch.io">
     <img src="https://img.shields.io/badge/Itch-%23E14848.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io">
@@ -169,8 +169,8 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
-
-<h2 align="center">Contact me</h2>
+-->
+<h2 align="center">Contacto</h2>
 
 <div align="center">
   <a href="mailto:francosalvadortalarico@gmail.com">
