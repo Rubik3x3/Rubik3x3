@@ -3,7 +3,6 @@
 </div>
 
 <img src="banner2.png">
-
 <!-- <img src="banner.png"> -->
 
 <!-- ## Technologies: -->
