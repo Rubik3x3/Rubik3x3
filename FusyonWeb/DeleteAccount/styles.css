@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 300px;
+    height: 600px;
+}
+
+header {
+    background-color: #eee;
+    color: #202020;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+article {
+    margin-bottom: 40px;
+}
+
+article h2 {
+    color: #202020;
+}
+
+footer {
+    background-color: #eee;
+    color: #202020;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
