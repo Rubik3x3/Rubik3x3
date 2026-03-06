@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://github.com/Rubik3x3">Franco</a></h1>
 </div>
 
-<img src="images/banner2.png">
+<!-- <img src="images/banner2.png"> --->
 <!-- <img src="banner.png"> -->
 
 <!-- ## Technologies: -->
