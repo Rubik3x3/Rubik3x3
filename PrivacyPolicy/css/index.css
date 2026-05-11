@@ -1,59 +1,56 @@
-*{
-	padding: 0;
-	margin: 0;
-    font-family: 'Roboto', sans-serif;
-}
-
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{
-    background-color: #FEFEFE;
-    color: white;
-}   
-
-#container__policy{
-    margin-left: 25vw;
-    margin-right: 25vw;
-    margin-top: 7vh;
-    margin-bottom: 7vh;
+  font:16px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  color:#1a1a1a;
+  background:#fafaf7;
+  padding:clamp(1.5rem,5vw,4rem) clamp(1rem,5vw,2rem);
+  max-width:720px;
+  margin:0 auto;
+  -webkit-font-smoothing:antialiased;
 }
-
-.title {
-    font-size: 2rem;
-    text-align: center;
-    margin-bottom: 7vh;
-    font-family: 'Aboreto';
-    color: #202020;
+header{
+  border-bottom:1px solid #1a1a1a;
+  padding-bottom:1.5rem;
+  margin-bottom:2.5rem;
 }
-
-.subtitle {
-    font-size: 1.5rem;
-    font-style: normal;
-    font-family: 'Aboreto';
-    color: #202020;
+h1{
+  font:600 clamp(1.75rem,5vw,2.5rem)/1.2 Georgia,"Times New Roman",serif;
+  letter-spacing:-.01em;
+  margin-bottom:.4rem;
 }
-
-.description {
-    margin-top: 10px;
-    font-size: 1rem;
-    color: #303030;
-    margin-bottom: 4rem;
-    text-align: justify;
+header p{
+  color:#666;
+  font-size:.9rem;
+  letter-spacing:.02em;
+  text-transform:uppercase;
 }
-
-
-@media screen and (max-width: 1025px) {
-    #container__policy{
-        margin-left: 7vw;
-        margin-right: 7vw;
-        margin-top: 7vh;
-        margin-bottom: 7vh;
-    }
+h2{
+  font:600 1.15rem/1.3 Georgia,"Times New Roman",serif;
+  margin:2.5rem 0 .6rem;
+  letter-spacing:-.005em;
 }
-
-@media screen and (max-width: 600px) {
-    #container__policy{
-        margin-left: 5vw;
-        margin-right: 5vw;
-        margin-top: 7vh;
-        margin-bottom: 7vh;
-    }
+h2:first-of-type{margin-top:0}
+p{margin-bottom:1rem;color:#2a2a2a}
+p:last-child{margin-bottom:0}
+ul{margin:0 0 1rem 1.1rem;color:#2a2a2a}
+li{margin-bottom:.25rem}
+a{color:#1a1a1a;text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:1px}
+a:hover{color:#000;text-decoration-thickness:2px}
+strong{font-weight:600;color:#1a1a1a}
+footer{
+  margin-top:3rem;
+  padding-top:1.5rem;
+  border-top:1px solid #ddd;
+  color:#888;
+  font-size:.85rem;
+}
+@media (prefers-color-scheme:dark){
+  body{background:#111;color:#e5e5e5}
+  header{border-bottom-color:#e5e5e5}
+  h1,h2,strong{color:#fff}
+  p,ul{color:#c5c5c5}
+  header p{color:#888}
+  a{color:#fff}
+  footer{border-top-color:#333;color:#777}
 }
