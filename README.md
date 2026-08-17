@@ -1,14 +1,5 @@
 ```
 ┌──(franco@github)-[~]
-└─$ ./init_portfolio.sh
-Loading modules...
-[✓] Linux
-[✓] 3D Printing & Electronics
-[✓] Android & Web Development
-
-Portfolio initialized.
-
-┌──(franco@github)-[~]
 └─$ whoami
 Developer · Maker · Computer Science Student
 
