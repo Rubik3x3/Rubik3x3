@@ -3,8 +3,8 @@
 └─$ whoami
 Developer · Maker · Computer Science Student
 
-Python · Kotlin · Java · JavaScript · SQL  
-React · Flutter · Linux · Git  
+Python · Kotlin · Java · SQL  
+React JS · Flutter · Linux · Git  
 Arduino · 3D CAD · Figma
 
 ┌──(franco@github)-[~]
